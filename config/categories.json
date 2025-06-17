@@ -1,0 +1,39 @@
+{
+  "🛡️ Modération": [
+    "ban",
+    "kick",
+    "mute",
+    "unmute",
+    "warn",
+    "clear",
+    "lock",
+    "unlock",
+    "slowmode",
+    "purge",
+    "nuke"
+  ],
+  "⚙️ Configuration": [
+    "anti-raid",
+    "settings",
+    "maintenance",
+    "automod"
+  ],
+  "📊 Utilitaires": [
+    "ping",
+    "info",
+    "serverinfo",
+    "userinfo",
+    "pic",
+    "banner"
+  ],
+  "🛠️ Système": [
+    "help",
+    "helpall",
+    "warnings"
+  ],
+  "🔒 Owner": [
+    "eval",
+    "maintenance",
+    "owneronly"
+  ]
+}

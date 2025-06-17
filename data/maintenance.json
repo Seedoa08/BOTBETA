@@ -1,0 +1,11 @@
+{
+    "enabled": false,
+    "reason": "Maintenance en cours...",
+    "timestamp": 1749561969021,
+    "enabledBy": "_hellyeah_bfr",
+    "allowedCommands": [
+        "help",
+        "ping",
+        "maintenance"
+    ]
+}

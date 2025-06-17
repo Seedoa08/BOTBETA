@@ -1,0 +1,16 @@
+[
+    {
+        "action": "mute",
+        "user": {
+            "id": "607957090358657035",
+            "tag": "_hellyeah_bfr"
+        },
+        "moderator": {
+            "id": "1061373376767201360",
+            "tag": "4185"
+        },
+        "reason": "Aucune raison fournie.",
+        "duration": "10 minutes",
+        "date": "2025-04-28T16:06:15.337Z"
+    }
+]

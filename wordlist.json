@@ -1,0 +1,43 @@
+{
+    "forbidden": [
+        
+        "fdp", "ntm", "pute", "salope", "enculé", "fils de pute",
+        "nique ta mère", "sale fils de", "encule ta mere",
+        "connard", "fils de pute", "nique ta mère", "batard", "salaud", "connasse", "salopard", "tdc",
+        "putain de ta mère", "ta race", "sale fils de", "sale batard",
+        "fils de chien", "va te faire", "encule ta mere", "suce", "nike",
+        "va te faire foutre", "vtff", "ftg", "tg", "ta gueule",
+        "mange tes morts", "tmtc", "sale chien", "chienne", "petasse",
+        "n1qu3", "f1ls d3 put3", "p*te", "p*tain", "b*tard", "f.d.p",
+        "nik ta mer", "n1ke", "n1k", "p3t4ss3", "b4t4rd", "s4l0p3",
+        "k0nn4rd", "k0n4ss3", "enc*le", "put3", "sal0pe", "put@in",
+        "b@tard", "f!ls de p*te", "t@ gu3ul3", "t@gu3ul3",
+        "sale race", "negro", "bamboula", "negro", "bougnoul", "chinetoque",
+        "feuj", "youpin", "bougnoule", "bicot", "crouille", "nikmouk",
+        "niakoué", "sale arabe", "sale noir", "sale blanc", "sale juif",
+        "pute", "salope", "chienne", "petasse", "putasse", "grognasse",
+        "conasse", "poufiasse", "trainée", "sale pute", "grosse pute",
+        "sale chienne", "grosse chienne", "pétasse", "connasse",
+        "fuck", "fucking", "fucker", "motherfucker", "son of a bitch",
+        "bitch", "asshole", "cunt", "whore", "slut", "bastard", "dickhead",
+        "pussy", "retard", "kys", "kill yourself", "faggot", "nigger",
+        "nigga", "fag", "stfu", "stf", "fuk", "fck",
+        "grosse pute", "gros fils de pute", "sale pute", "grosse salope",
+        "gros batard", "sale chien", "fils de ta race", "nique ta mère",
+        "va niquer ta mère", "nike ta mère", "va niker ta mere",
+        "sale fils de pute", "gros fils de chien", "sale batard",
+        "grosse connasse", "gros connard", "sale con", "grosse conne"
+    ],
+    "warning": [
+        
+        "con", "conne", "débile", "crétin", "crétine",
+        "idiot", "idiote", "nul", "nulle", "boulet",
+        "moche", "sale", "pourri", "stupide", "abruti",
+        "imbécile", "bouffon", "bouffonne", "noob",
+        "looser", "loser", "minable", "raté", "naze"
+    ],
+    "exceptions": [
+        "classe", "assistance", "passer", "passé", "constitution",
+        "classic", "classique", "passer", "passant", "passage"
+    ]
+}

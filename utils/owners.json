@@ -1,0 +1,12 @@
+{
+    "levels": {
+        "3": ["1061373376767201360"],
+        "2": [],
+        "1": []
+    },
+    "descriptions": {
+        "3": "Owner Principal - Accès total",
+        "2": "Co-Owner - Accès élevé",
+        "1": "Owner Assistant - Accès limité"
+    }
+}

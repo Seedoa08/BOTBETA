@@ -1,0 +1,7 @@
+{
+    "enabled": true,
+    "channel": "1370812801622474915",
+    "message": "Bienvenue {user} sur {server} ! Tu es notre {count}ème membre !",
+    "embedColor": "0x7289DA",
+    "withImage": true
+}
