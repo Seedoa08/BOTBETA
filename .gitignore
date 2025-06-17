@@ -1,9 +1,0 @@
-node_modules/
-.env
-logs/
-backups/
-*.log
-config.json
-.DS_Store
-commands/example.js
-.vercel
