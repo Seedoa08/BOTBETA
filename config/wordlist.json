@@ -1,0 +1,35 @@
+{
+    "french": {
+        "insults": [
+             "pute", "salope", "fdp", "ntm", "tg", 
+             "pd", "nique", "bite", "petasse",
+            "pede"
+        ],
+        "discriminations": [
+            "negro", "negre", "nègre", "feuj", "bicot", "youpin", 
+            "pédé"
+        ],
+        "threats": [
+            "je vais te tuer", "crève", "suicide toi", "va mourir", "nique ta mere",
+            "je vais te niquer"
+        ]
+    },
+    "english": {
+        "insults": [
+            "fuck", "shit", "bitch", "asshole", "cunt", "whore", "slut", "dick",
+            "pussy", "stfu"
+        ],
+        "threats": [
+            "kill yourself", "die", "kill you", "murder you"
+        ]
+    },
+    "variations": {
+        "bypass": [
+            "f*ck", "sh*t", "b!tch", "f4ck", "n1gga", "k*s", "d1e",
+            "n1que", "b1te", "p*te"
+        ]
+    },
+    "bannedWords": [
+         "fdp", "pute", "salope", "pd", "nique", "salaud", "fuck", "shit", "bitch", "asshole", "cunt", "whore", "slut", "dick", "pussy"
+    ]
+}

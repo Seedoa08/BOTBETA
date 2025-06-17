@@ -1,0 +1,24 @@
+{
+  "1349560918199238748": {
+    "antiRaid": false,
+    "automod": false,
+    "muteRole": null,
+    "logChannel": null,
+    "prefix": "+",
+    "warnThreshold": 3,
+    "maxMentions": 5,
+    "maxEmojis": 10,
+    "maxLines": 10
+  },
+  "1280220454984093778": {
+    "antiRaid": false,
+    "automod": false,
+    "muteRole": null,
+    "logChannel": null,
+    "prefix": "+",
+    "warnThreshold": 3,
+    "maxMentions": 5,
+    "maxEmojis": 10,
+    "maxLines": 10
+  }
+}

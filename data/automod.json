@@ -1,0 +1,46 @@
+{
+  "enabled": false,
+  "filters": {
+    "spam": {
+      "enabled": false,
+      "threshold": 5,
+      "interval": 5000
+    },
+    "caps": {
+      "enabled": false,
+      "threshold": 70
+    },
+    "links": {
+      "enabled": false,
+      "whitelist": []
+    },
+    "invites": {
+      "enabled": false
+    },
+    "badwords": {
+      "enabled": false,
+      "words": []
+    },
+    "mentions": {
+      "enabled": false,
+      "maxMentions": 3
+    },
+    "emojis": {
+      "enabled": false,
+      "maxEmojis": 5
+    },
+    "duplicates": {
+      "enabled": false
+    }
+  },
+  "actions": {
+    "warn": true,
+    "delete": true,
+    "timeout": false,
+    "timeoutDuration": 300000,
+    "notifyUser": true
+  },
+  "ignoredChannels": [],
+  "ignoredRoles": [],
+  "logChannel": null
+}

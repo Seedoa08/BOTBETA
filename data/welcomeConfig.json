@@ -1,0 +1,11 @@
+{
+    "enabled": true,
+    "channelId": "1352391218621059103",
+    "message": "Bienvenue {user} sur {server} !\nTu es notre {count}ème membre !",
+    "footer": "Rejoint le {date}",
+    "color": "#0099ff",
+    "embedTitle": "👋 Nouveau membre",
+    "embedDescription": "Un nouveau membre vient de nous rejoindre !",
+    "thumbnail": true,
+    "showJoinDate": true
+}

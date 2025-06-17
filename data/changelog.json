@@ -1,0 +1,28 @@
+{
+    "versions": [
+        {
+            "version": "1.1.5",
+            "date": "2025-01-27",
+            "changes": [
+                "🛠️ Amélioration système de permissions pour les owners",
+                "🔧 Correction des commandes de modération",
+                "✨ Ajout de la commande anti-raid interactive",
+                "🎯 Amélioration de la précision de l'automod",
+                "💪 Renforcement de la gestion des erreurs",
+                "📝 Amélioration des logs et messages d'erreur",
+                "🔒 Ajout du système de configuration interactive"
+            ]
+        },
+        {
+            "version": "1.1.4",
+            "date": "2025-01-26",
+            "changes": [
+                "✨ Ajout commande version avec changelog",
+                "🛡️ Amélioration système anti-raid",
+                "⚙️ Ajout configuration interactive automod",
+                "🔧 Optimisation des performances",
+                "📊 Amélioration des statistiques serveur"
+            ]
+        }
+    ]
+}
