@@ -1,3 +1,4 @@
+require('dotenv').config();
 require('./server.js');
 const { Client, Collection, GatewayIntentBits, ActionRowBuilder, ButtonBuilder, ButtonStyle, ChannelType, PermissionsBitField, ActivityType, EmbedBuilder } = require('discord.js');
 const config = require('./config.json');
@@ -307,7 +308,7 @@ client.on('guildMemberAdd', async (member) => {
     }
 });
 
-client.login(config.token).then(() => {
+client.login(process.env.BOT_TOKEN).then(() => {
     console.log(`Logged in as ${client.user.tag}`);
     startServer();
 }).catch(error => {
