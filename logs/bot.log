@@ -1,0 +1,19 @@
+[2025-06-17T20:52:44.748Z] ERROR: Error: Received one or more errors
+    at _UnionValidator.handle (C:\Users\ACER\Downloads\BetaBOTa-master\node_modules\@sapphire\shapeshift\dist\cjs\index.cjs:1965:23)
+    at _UnionValidator.parse (C:\Users\ACER\Downloads\BetaBOTa-master\node_modules\@sapphire\shapeshift\dist\cjs\index.cjs:972:90)
+    at EmbedBuilder.setDescription (C:\Users\ACER\Downloads\BetaBOTa-master\node_modules\@discordjs\builders\dist\index.js:315:26)
+    at Object.execute (C:\Users\ACER\Downloads\BetaBOTa-master\commands\modlogs.js:26:18)
+    at Client.<anonymous> (C:\Users\ACER\Downloads\BetaBOTa-master\index.js:133:27)
+    at Client.emit (node:events:518:28)
+    at MessageCreateAction.handle (C:\Users\ACER\Downloads\BetaBOTa-master\node_modules\discord.js\src\client\actions\MessageCreate.js:32:14)
+    at module.exports [as MESSAGE_CREATE] (C:\Users\ACER\Downloads\BetaBOTa-master\node_modules\discord.js\src\client\websocket\handlers\MESSAGE_CREATE.js:4:32)
+    at WebSocketManager.handlePacket (C:\Users\ACER\Downloads\BetaBOTa-master\node_modules\discord.js\src\client\websocket\WebSocketManager.js:348:31)
+    at WebSocketManager.<anonymous> (C:\Users\ACER\Downloads\BetaBOTa-master\node_modules\discord.js\src\client\websocket\WebSocketManager.js:232:12)
+[2025-06-17T21:16:12.298Z] ERROR: TypeError: message.reply is not a function
+    at sendError (C:\Users\ACER\Downloads\BetaBOTa-master\utils\functions.js:115:20)
+    at Client.<anonymous> (C:\Users\ACER\Downloads\BetaBOTa-master\index.js:192:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+[2025-06-17T21:16:12.772Z] ERROR: TypeError: message.reply is not a function
+    at sendError (C:\Users\ACER\Downloads\BetaBOTa-master\utils\functions.js:115:20)
+    at Client.<anonymous> (C:\Users\ACER\Downloads\BetaBOTa-master\index.js:192:15)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

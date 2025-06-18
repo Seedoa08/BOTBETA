@@ -1,0 +1,19 @@
+{
+    "owners": [
+        "1061373376767201360",
+        "1299488071615778846",
+        "607957090358657035"
+    ],
+    "prefix": "+",
+    "version": "1.0.0",
+    "lastUpdate": "2025-06-10",
+    "port": 3002,
+    "token": "OTg5MjI3MzEyMjIwMzQwMjI0.Gxrywg.QCvx8DrAQI7YHX7kH7fJ-cfhZH4ImGT1IW98Rg",
+    "moderationLogChannelId": "ID_DU_SALON_LOGS",
+    "warnThresholds": {
+        "mute": 3,
+        "kick": 5,
+        "ban": 7,
+        "muteDuration": 3600000
+    }
+}
